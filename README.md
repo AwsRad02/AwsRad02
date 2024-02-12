@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Aws Radaideh       __________________ 1+1=10 ______________________
+- in programming the basics are the advanced 🔥
 - 👀 I’m interested in Mobile application Development  
 - 🌱 I’m currently learning DevOps 
 - 💞️ I’m looking to collaborate on Mobile app project
